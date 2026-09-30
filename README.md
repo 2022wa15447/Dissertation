@@ -1,2 +1,2 @@
 # Dissertation
-This Rep is for BITS M.Tech Software System-Dissertation
+This Repository is for BITS M.Tech Software System-Dissertation
